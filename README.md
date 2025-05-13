@@ -1,2 +1,2 @@
 # Advanced-Retail-Dashboard
-Power BI dashboard with multiple tables, DAX measures, and sales analysis
+This project is a comprehensive retail sales dashboard created in Power BI using multiple related tables and advanced DAX measures. The purpose is to analyze sales, profits, customer behavior, and product performance across different regions and time periods. This dashboard can be used by retail business managers or analysts to monitor sales KPIs, identify high-performing products/customers, and make better decisions across different regions.
